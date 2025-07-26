@@ -98,7 +98,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td colspan="2" align="center" width="100%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagigolu02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
@@ -122,19 +122,19 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/QR-Code-Generator">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=QR-Code-Generator&theme=tokyonight&hide_border=true" alt="QR Code Generator" />
         </a>
       </td>
-      <td colspan="2"align="center">
+      <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/ToDo-List">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=ToDo-List&theme=tokyonight&hide_border=true" alt="ToDo List" />
         </a>
       </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td colspan="2" align="center">
         <a href="https://github.com/tyagigolu02/Weather-App">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Weather-App&theme=tokyonight&hide_border=true" alt="Weather App" />
         </a>
