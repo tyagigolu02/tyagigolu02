@@ -88,29 +88,59 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tyagigolu02&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyagigolu02&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagigolu02&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=tyagigolu02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyagigolu02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagigolu02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/tyagigolu02/DevDishes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=DevDishes&theme=tokyonight" alt="DevDishes" />
-  </a>
-  <a href="https://github.com/tyagigolu02/Animal-s-History">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Animal-s-History&theme=tokyonight" alt="Animal's History" />
-  </a>
-  <a href="https://github.com/tyagigolu02/QR-Code-Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=QR-Code-Generator&theme=tokyonight" alt="QR Code Generator" />
-  </a>
-  <a href="https://github.com/tyagigolu02/ToDo-List">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=ToDo-List&theme=tokyonight" alt="ToDo List" />
-  </a>
-  <a href="https://github.com/tyagigolu02/Weather-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Weather-App&theme=tokyonight" alt="Weather App" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/tyagigolu02/DevDishes">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=DevDishes&theme=tokyonight&hide_border=true" alt="DevDishes" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/tyagigolu02/Animal-s-History">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Animal-s-History&theme=tokyonight&hide_border=true" alt="Animal's History" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/tyagigolu02/QR-Code-Generator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=QR-Code-Generator&theme=tokyonight&hide_border=true" alt="QR Code Generator" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/tyagigolu02/ToDo-List">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=ToDo-List&theme=tokyonight&hide_border=true" alt="ToDo List" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/tyagigolu02/Weather-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Weather-App&theme=tokyonight&hide_border=true" alt="Weather App" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🌐 Portfolio
