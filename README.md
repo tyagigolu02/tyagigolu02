@@ -136,7 +136,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td colspan="2" align="center">
         <a href="https://github.com/tyagigolu02/Weather-App">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Weather-App&theme=tokyonight&hide_border=true" alt="Weather App" />
         </a>
