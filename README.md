@@ -90,15 +90,17 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=tyagigolu02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </td>
-      <td align="center">
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyagigolu02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" width="100%">
+      <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagigolu02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
@@ -134,7 +136,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center">
         <a href="https://github.com/tyagigolu02/Weather-App">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Weather-App&theme=tokyonight&hide_border=true" alt="Weather App" />
         </a>
