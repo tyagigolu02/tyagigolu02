@@ -6,9 +6,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/golu-tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tyagigolu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://twitter.com/tyagigolu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
   <a href="https://instagram.com/tyagigolu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://github.com/tyagigolu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+  <a href="https://codewithtyagi.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="portfolio" height="30" width="40" /></a>
   <a href="mailto:tyagigolu02@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/></a>
 </p>
 
@@ -22,6 +24,11 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
+  
+  ### Core Skills
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23FF6B6B.svg?style=for-the-badge&logo=databricks&logoColor=white)
   
   ### Frontend
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -65,33 +72,39 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/tyagigolu02/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=project-1&theme=tokyonight" alt="Project 1" />
+  <a href="https://github.com/tyagigolu02/DevDishes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=DevDishes&theme=tokyonight" alt="DevDishes" />
   </a>
-  <a href="https://github.com/tyagigolu02/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=project-2&theme=tokyonight" alt="Project 2" />
+  <a href="https://github.com/tyagigolu02/Animal-s-History">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Animal-s-History&theme=tokyonight" alt="Animal's History" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/tyagigolu02/project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=project-3&theme=tokyonight" alt="Project 3" />
+  <a href="https://github.com/tyagigolu02/QR-Code-Generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=QR-Code-Generator&theme=tokyonight" alt="QR Code Generator" />
   </a>
-  <a href="https://github.com/tyagigolu02/project-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=project-4&theme=tokyonight" alt="Project 4" />
+  <a href="https://github.com/tyagigolu02/ToDo-List">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=ToDo-List&theme=tokyonight" alt="ToDo List" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/tyagigolu02/Weather-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Weather-App&theme=tokyonight" alt="Weather App" />
   </a>
 </div>
 
 ## 🌐 Portfolio
 
 <div align="center">
-  <a href="https://yourportfolio.com">
+  <a href="https://codewithtyagi.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tyagigolu02&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tyagigolu02&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 
