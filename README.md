@@ -107,6 +107,13 @@
   </table>
 </div>
 
+
+## 📈 Contribution Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyagigolu02&theme=react-dark&area=true" />
+</p>
+
 ## 🏆 Featured Projects
 
 <div align="center">
