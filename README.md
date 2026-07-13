@@ -103,9 +103,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyagigolu02&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyagigolu02&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyagigolu02&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
 </p>
+
+<div align="center">
+  <a href="https://codewithtyagi.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 <br>
 <div align="center">
