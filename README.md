@@ -90,19 +90,6 @@
 
 ## ⚡ GitHub Stats & Activity
 
-<div align="center">
-  <a href="https://github.com/tyagigolu02">
-    <img src="https://github-readme-stats.vercel.app/api?username=tyagigolu02&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/tyagigolu02">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagigolu02&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyagigolu02&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
 ## ⚡ GitHub Stats & Activity
 
 <div align="center">
@@ -110,6 +97,12 @@
 [![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagigolu02&theme=radical)](https://github.com/tyagigolu02)
 
 </div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyagigolu02&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+
 
 <br>
 
