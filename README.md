@@ -92,10 +92,10 @@
 
 <div align="center">
   <a href="https://github.com/tyagigolu02">
-    <img src="https://github-readme-stats.vercel.app/api?username=tyagigolu02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&line_height=30" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tyagigolu02&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/tyagigolu02">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagigolu02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagigolu02&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 <br>
@@ -103,13 +103,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyagigolu02&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
+<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyagigolu02&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <div align="center">
-  <a href="https://codewithtyagi.netlify.app/">
+  <a href="https://portfolio-react-e45.pages.dev">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
