@@ -24,17 +24,17 @@
 
 <div align="center">
   
-  ### ☕ Core Languages
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="SQL"/>
+### ☕ Core Languages
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 
-  ### ⚙️ Backend & Frameworks
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/Spring_JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Spring JPA"/>
-  <img src="https://img.shields.io/badge/JDBC-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="JDBC"/>
-  <img src="https://img.shields.io/badge/Spring_Core-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Spring_Core"/>
+### ⚙️ Backend & Frameworks
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+<img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring JPA"/>
+<img src="https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDBC"/>
+<img src="https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Core"/>
   
   ### 💻 Frontend
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
