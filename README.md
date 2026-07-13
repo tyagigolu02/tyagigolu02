@@ -62,7 +62,7 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/TranslaTalk">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=TranslaTalk&theme=radical&hide_border=true&bg_color=0D1117" alt="TranslaTalk App" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=https://github.com/SYNTAXERROR-05/React_ChatApp.git&theme=radical&hide_border=true&bg_color=0D1117" alt="TranslaTalk App" />
         </a>
       </td>
       <td align="center" width="50%">
