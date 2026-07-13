@@ -6,16 +6,16 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/tyagigolu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/deepanshu-tyagi-cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://github.com/tyagigolu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
   <a href="https://codewithtyagi.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="portfolio" height="30" width="40" /></a>
   <a href="mailto:deepanshu.tyagi.cse.2022@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/></a>
 </p>
 
 ## 💫 About Me
-- 🔭 I'm currently working on **WebDev Projects.**
-- 🌱 I'm currently learning **Java Full Stack.**
-- 💬 Ask me about **HTML , CSS , JavaScript , React , Java ,Python and SQL.**
+- 🔭 I'm currently working on **Spring Framework.**
+- 🌱 I'm currently learning **DevOps.**
+- 💬 Ask me about **JavaScript , React , Core Java ,Spring Boot , Spring JPA and SQL.**
 - ⚡ Fun fact: **I think I am not funny.**
 -  📫 How to reach me **deepanshu.tyagi.cse.2022@gmail.com**
 
@@ -35,6 +35,9 @@
         </td>
         <td align="center">
           <img src="https://img.shields.io/badge/DSA-%23FF6B6B.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Structures & Algorithms"/>
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/springboot-%23FF6B6B.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Structures & Algorithms"/>
         </td>
       </tr>
     </table>
