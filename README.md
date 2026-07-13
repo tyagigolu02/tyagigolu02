@@ -90,10 +90,10 @@
 
 ## ⚡ GitHub Stats & Activity
 
-<div align="center"length="100px">
-
-[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagigolu02&theme=radical)](https://github.com/tyagigolu02)
-
+<div align="center">
+  <a href="https://github.com/tyagigolu02">
+    <img height="280" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagigolu02&theme=radical" alt="GitHub Profile Details" />
+  </a>
 </div>
 <br>
 <div align="center">
