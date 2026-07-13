@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Let's Connect & Collaborate:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/deepanshu-tyagi-cse/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://codewithtyagi.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+  <a href="https://portfolio-react-e45.pages.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
   <a href="mailto:deepanshu.tyagi.cse.2022@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -24,17 +24,17 @@
 
 <div align="center">
   
-### ☕ Core Languages
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  ### ☕ Core Languages
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 
-### ⚙️ Backend & Frameworks
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
-<img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring JPA"/>
-<img src="https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDBC"/>
-<img src="https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Core"/>
+  ### ⚙️ Backend & Frameworks
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring JPA"/>
+  <img src="https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/>
   
   ### 💻 Frontend
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -61,8 +61,8 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/tyagigolu02/TranslaTalk">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=https://github.com/SYNTAXERROR-05/React_ChatApp.git&theme=radical&hide_border=true&bg_color=0D1117" alt="TranslaTalk App" />
+        <a href="https://github.com/SYNTAXERROR-05/React_ChatApp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYNTAXERROR-05&repo=React_ChatApp&theme=radical&hide_border=true&bg_color=0D1117" alt="TranslaTalk App" />
         </a>
       </td>
       <td align="center" width="50%">
@@ -92,27 +92,24 @@
 
 <div align="center">
   <a href="https://github.com/tyagigolu02">
-    <img height="320" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagigolu02&theme=radical" alt="GitHub Profile Details" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tyagigolu02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/tyagigolu02">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagigolu02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" alt="Top Languages" />
   </a>
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyagigolu02&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tyagigolu02&theme=radical&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
-
-
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyagigolu02&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyagigolu02&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&border_radius=10" alt="Activity Graph" />
 </p>
-
-<div align="center">
-  <a href="https://portfolio-react-e45.pages.dev">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
 
 <br>
 <div align="center">
