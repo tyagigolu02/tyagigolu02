@@ -90,9 +90,7 @@
 
 ## ⚡ GitHub Stats & Activity
 
-## ⚡ GitHub Stats & Activity
-
-<div align="center">
+<div align="center"length="100px">
 
 [![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagigolu02&theme=radical)](https://github.com/tyagigolu02)
 
