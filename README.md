@@ -57,6 +57,7 @@
 </div>
 
 ---
+
 ## 🔥 Featured Projects
 
 > **Note to Recruiters:** Below are some of my major projects highlighting my skills in backend architecture, real-time data handling, and full-stack development.
@@ -66,24 +67,24 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/SYNTAXERROR-05/React_ChatApp">
-          <img src="https://socialify.git.ci/SYNTAXERROR-05/React_ChatApp/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="TranslaTalk App" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYNTAXERROR-05&repo=React_ChatApp&theme=tokyonight&hide_border=true&border_radius=10" alt="TranslaTalk App" />
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/Train-Booking-System">
-          <img src="https://socialify.git.ci/tyagigolu02/Train-Booking-System/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Train Booking System" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Train-Booking-System&theme=tokyonight&hide_border=true&border_radius=10" alt="Train Booking System" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/DevDishes">
-          <img src="https://socialify.git.ci/tyagigolu02/DevDishes/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="DevDishes" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=DevDishes&theme=tokyonight&hide_border=true&border_radius=10" alt="DevDishes" />
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/Weather-App">
-          <img src="https://socialify.git.ci/tyagigolu02/Weather-App/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Weather App" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Weather-App&theme=tokyonight&hide_border=true&border_radius=10" alt="Weather App" />
         </a>
       </td>
     </tr>
@@ -94,25 +95,22 @@
 
 ## ⚡ GitHub Stats & Activity
 
+<!-- Split Cards for Stats & Commits so they NEVER get cut -->
 <div align="center">
-  <a href="https://github.com/tyagigolu02">
-    <img src="https://github-readme-stats.vercel.app/api?username=tyagigolu02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/tyagigolu02">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagigolu02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tyagigolu02&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tyagigolu02&theme=tokyonight" width="48%" alt="Productive Time" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tyagigolu02&theme=radical&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tyagigolu02&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyagigolu02&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&border_radius=10" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyagigolu02&theme=tokyonight&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
 </p>
 
 <br>
