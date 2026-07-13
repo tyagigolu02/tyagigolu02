@@ -57,7 +57,6 @@
 </div>
 
 ---
-
 ## 🔥 Featured Projects
 
 > **Note to Recruiters:** Below are some of my major projects highlighting my skills in backend architecture, real-time data handling, and full-stack development.
@@ -67,24 +66,24 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/SYNTAXERROR-05/React_ChatApp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYNTAXERROR-05&repo=React_ChatApp&theme=radical&hide_border=true&bg_color=0D1117" alt="TranslaTalk App" />
+          <img src="https://socialify.git.ci/SYNTAXERROR-05/React_ChatApp/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="TranslaTalk App" />
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/Train-Booking-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Train-Booking-System&theme=radical&hide_border=true&bg_color=0D1117" alt="Train Booking System" />
+          <img src="https://socialify.git.ci/tyagigolu02/Train-Booking-System/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Train Booking System" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/DevDishes">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=DevDishes&theme=radical&hide_border=true&bg_color=0D1117" alt="DevDishes" />
+          <img src="https://socialify.git.ci/tyagigolu02/DevDishes/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="DevDishes" />
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/Weather-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Weather-App&theme=radical&hide_border=true&bg_color=0D1117" alt="Weather App" />
+          <img src="https://socialify.git.ci/tyagigolu02/Weather-App/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Weather App" />
         </a>
       </td>
     </tr>
