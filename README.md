@@ -92,7 +92,7 @@
 
 <div align="center">
   <a href="https://github.com/tyagigolu02">
-    <img height="280" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagigolu02&theme=radical" alt="GitHub Profile Details" />
+    <img height="320" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagigolu02&theme=radical" alt="GitHub Profile Details" />
   </a>
 </div>
 <br>
