@@ -35,6 +35,9 @@
   <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring JPA"/>
   <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=json&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
+  <img src="https://img.shields.io/badge/OAuth_2.0-3E8EED?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth"/>
   
   ### 💻 Frontend
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
