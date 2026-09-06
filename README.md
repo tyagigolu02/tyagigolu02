@@ -86,7 +86,7 @@
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/tyagigolu02/Weather-App">
+        <a href="https://github.com/tyagigolu02/weather_api">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=weather_api&theme=tokyonight&hide_border=true&border_radius=10" alt="Weather API" />
         </a>
       </td>
