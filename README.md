@@ -70,24 +70,24 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/SYNTAXERROR-05/React_ChatApp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SYNTAXERROR-05&repo=React_ChatApp&theme=tokyonight&hide_border=true&border_radius=10" alt="TranslaTalk App" />
+          <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=SYNTAXERROR-05&repo=React_ChatApp&theme=tokyonight&hide_border=true&border_radius=10" alt="TranslaTalk App" />
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/Train-Booking-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=Train-Booking-System&theme=tokyonight&hide_border=true&border_radius=10" alt="Train Booking System" />
+          <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=tyagigolu02&repo=Train-Booking-System&theme=tokyonight&hide_border=true&border_radius=10" alt="Train Booking System" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/DevDishes">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=DevDishes&theme=tokyonight&hide_border=true&border_radius=10" alt="DevDishes" />
+          <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=tyagigolu02&repo=DevDishes&theme=tokyonight&hide_border=true&border_radius=10" alt="DevDishes" />
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/weather_api">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyagigolu02&repo=weather_api&theme=tokyonight&hide_border=true&border_radius=10" alt="Weather API" />
+          <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=tyagigolu02&repo=weather_api&theme=tokyonight&hide_border=true&border_radius=10" alt="Weather API" />
         </a>
       </td>
     </tr>
