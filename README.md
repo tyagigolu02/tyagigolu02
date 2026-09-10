@@ -124,6 +124,18 @@
   </a>
 </div>
 <br>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
+  <h2><b>⚡ My Development Activity ⚡</b></h2>
+  
+  <a href="https://github.com/tyagigolu02">
+    <!-- Ye bulletproof server hai jo kabhi down nahi hota -->
+    <img src="https://ghchart.rshah.org/8254ed/tyagigolu02" alt="Tyagi's GitHub Chart" width="100%" />
+  </a>
+</div>
+<br>
+
 
 
 <br>
