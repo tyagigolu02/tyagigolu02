@@ -114,9 +114,17 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyagigolu02&theme=tokyonight&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
-</p>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
+  <h2><b>⚡ My Development Activity ⚡</b></h2>
+  
+  <a href="https://github.com/tyagigolu02">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyagigolu02&theme=tokyonight&hide_border=true&radius=15&area=true" alt="Activity Graph" width="100%" />
+  </a>
+</div>
+<br>
+
 
 <br>
 <div align="center">
