@@ -69,13 +69,14 @@
   <table>
     <tr>
       <td align="center" width="50%">
+        <!-- Agar React_ChatApp me koi error aaye toh bas usko public kar dena SYNTAXERROR-05 account se -->
         <a href="https://github.com/SYNTAXERROR-05/React_ChatApp">
           <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=SYNTAXERROR-05&repo=React_ChatApp&theme=tokyonight&hide_border=true&border_radius=10" alt="TranslaTalk App" />
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/tyagigolu02/Train-Booking-System">
-          <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=tyagigolu02&repo=TrainApp_Console&theme=tokyonight&hide_border=true&border_radius=10" alt="Train Booking System" />
+        <a href="https://github.com/tyagigolu02/TrainApp_Console">
+          <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=tyagigolu02&repo=TrainApp_Console&theme=tokyonight&hide_border=true&border_radius=10" alt="Train App Console" />
         </a>
       </td>
     </tr>
@@ -93,6 +94,7 @@
     </tr>
   </table>
 </div>
+
 
 ---
 
