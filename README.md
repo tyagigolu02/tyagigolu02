@@ -120,7 +120,7 @@
   <h2><b>⚡ My Development Activity ⚡</b></h2>
   
   <a href="https://github.com/tyagigolu02">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyagigolu02&theme=tokyonight&hide_border=true&radius=15&area=true" alt="Activity Graph" width="100%" />
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyagigolu02&theme=tokyonight&hide_border=true&v=1" alt="Activity Graph" />
   </a>
 </div>
 <br>
