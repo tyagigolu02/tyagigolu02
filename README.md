@@ -75,7 +75,7 @@
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/Train-Booking-System">
-          <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=tyagigolu02&repo=Train-Booking-System&theme=tokyonight&hide_border=true&border_radius=10" alt="Train Booking System" />
+          <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=tyagigolu02&repo=TrainApp_Console&theme=tokyonight&hide_border=true&border_radius=10" alt="Train Booking System" />
         </a>
       </td>
     </tr>
