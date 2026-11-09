@@ -69,7 +69,6 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <!-- Agar React_ChatApp me koi error aaye toh bas usko public kar dena SYNTAXERROR-05 account se -->
         <a href="https://github.com/SYNTAXERROR-05/React_ChatApp">
           <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=SYNTAXERROR-05&repo=React_ChatApp&theme=tokyonight&hide_border=true&border_radius=10" alt="TranslaTalk App" />
         </a>
@@ -88,7 +87,17 @@
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/tyagigolu02/weather_api">
-          <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=tyagigolu02&repo=weather_api&theme=tokyonight&hide_border=true&border_radius=10" alt="Weather API" />
+          <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=tyagigolu02&repo=Iron_Forge_Gym&theme=tokyonight&hide_border=true&border_radius=10" alt="Iron Forge Gym" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/tyagigolu02/DevDishes">
+          <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=tyagigolu02&repo=DevDishes&theme=tokyonight&hide_border=true&border_radius=10" alt="DevDishes" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/tyagigolu02/DevDishes">
+          <img src="https://my-github-stats-psi-seven.vercel.app/api/pin/?username=tyagigolu02&repo=DevDishes&theme=tokyonight&hide_border=true&border_radius=10" alt="DevDishes" />
         </a>
       </td>
     </tr>
