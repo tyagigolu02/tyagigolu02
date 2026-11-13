@@ -57,6 +57,18 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 
+
+    ### 🤖 AI Agents & Integrations
+  <img src="https://img.shields.io/badge/Cursor_IDE-121212?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor IDE"/>
+  <img src="https://img.shields.io/badge/Windsurf_IDE-0284C7?style=for-the-badge&logo=codeium&logoColor=white" alt="Windsurf"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Lovable-EC4899?style=for-the-badge&logo=react&logoColor=white" alt="Lovable"/>
+  <img src="https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logo=spacex&logoColor=white" alt="Antigravity"/>
+  
+
 </div>
 
 ---
